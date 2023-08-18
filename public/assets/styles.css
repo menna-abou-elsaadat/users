@@ -1,0 +1,13 @@
+body{
+       margin: 20px;
+}
+
+#display_image{
+
+       width: 100%;
+       height: 150px;
+       border: 1px solid black;
+       background-position: center;
+       background-size: cover;
+       margin-top: 5px;
+}

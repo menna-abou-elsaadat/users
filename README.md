@@ -1,0 +1,1 @@
+simple user form the store user (first name, last name, image(uuid, image name)) to db
